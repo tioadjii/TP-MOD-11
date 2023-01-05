@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670786607 source:c:\tio adji hidayat\c++\tpmod12\flight.cpp
+	"flight.h"
+
+1670786611 c:\tio adji hidayat\c++\tpmod12\flight.h
+	<iostream>
+
+1670787342 source:c:\tio adji hidayat\c++\tpmod12\main.cpp
+	"flight.h"
+
